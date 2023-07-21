@@ -1,0 +1,31 @@
+#mail
+{
+    position:absolute;
+    top: 0px;
+    margin: 0;
+
+}
+*{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#top{
+    position: relative;
+    justify-items: center;
+    background-color: aqua;
+}
+#profile{
+    position: absolute;
+}
+.profile{
+    position: absolute;
+
+    right:0;
+    bottom:0;
+}
+select{
+    position: absolute;
+    bottom: 8px;
+}
+button{
+    ;
+}
